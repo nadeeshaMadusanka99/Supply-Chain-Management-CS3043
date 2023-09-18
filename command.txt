@@ -1,0 +1,4 @@
+=======backend command============
+npm init                                            #intialize
+npm install mysql express dotenv cors nodemon       #install dependecies and packages
+npm run dev

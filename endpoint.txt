@@ -1,0 +1,7 @@
+endpoints:
+
+GET /customers              : Returns a list of all customers in the database.
+GET /customers/:id          : Returns a single customer with the given ID.
+POST /customers             : Creates a new customer based on the request body.
+PUT /customers/:id          : Updates the customer with the given ID based on the request body.
+DELETE /customers/:id       : Deletes the customer with the given ID.
