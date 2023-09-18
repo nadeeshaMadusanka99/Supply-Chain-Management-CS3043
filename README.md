@@ -12,7 +12,6 @@ The Supply Chain Management System is a comprehensive solution designed to optim
 - Truck Scheduling: Assigns drivers and driver assistants to delivery routes and ensures compliance with working hour constraints.
 - Reporting and Analytics: Provides various reports for monitoring and analytics of the platform, including sales reports, item statistics, route details, and workforce hours.
 - Database Management: Utilizes MySQL for database storage and incorporates procedures, functions, and triggers to maintain ACID properties.
-- API for Integration: Offers API endpoints for integrating with other systems.
 
 ## Technologies Used
 
