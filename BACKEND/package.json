@@ -7,7 +7,7 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "Somesh Chandimal (UG)",
+  "author": "Nadeesha Madusanka",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
